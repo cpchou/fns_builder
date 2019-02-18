@@ -1,4 +1,4 @@
-FROM cpchou/mvn_jdk7
+FROM cpchou/jdk7_builder
 
 RUN pwd
 RUN wget https://cpchou0701.diskstation.me/forDocker/repository.tar
